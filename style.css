@@ -1,0 +1,38 @@
+body{
+    background-color: white;
+}
+.bacgrnd{
+    background-color: hsla(39, 85%, 51%, 0.233);
+}
+.image-siz img{
+    height: 400px;
+    background-color: hsla(0, 0%, 83%, 0.205);
+    border-radius: 15px;
+    border: none;
+}
+.button-style{
+ margin-left: auto;
+ 
+}
+.card-footer{
+    display: flex;
+    background-color: white;
+
+}
+.td{
+    text-decoration: none;
+    background-color: rgb(102, 150, 7);
+    border-radius: 5px;
+    font-size: 25px;
+    padding: 5px 10px;
+    color: white;
+}
+.box-sadow{
+    box-shadow: 5px 5px 10px ;
+}
+#center{
+    text-align: center;
+    margin-top: 80px;
+    background-color: rgba(235, 229, 229, 0.411);
+    padding: 40px 0px;
+}
